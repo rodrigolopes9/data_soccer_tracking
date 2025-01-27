@@ -1,0 +1,46 @@
+VideoId 08fd33_4
+08fd33_4 f1f7ff 8edc65 120a8f ba5d35 272a20
+home_team_color f1f7ff 
+away_team_color 8edc65 
+home_team_goalkeeper_color 120a8f 
+away_team_goalkeeper_color ba5d35 
+referee_color 272a20 
+
+VideoId 23a463_2
+23a463_2 9B4131 FEFCEF 84DC6C 84233C F4F575
+home_team_color 9B4131
+away_team_color FEFCEF
+home_team_goalkeeper_color 84DC6C
+away_team_goalkeeper_color 84233C
+referee_color F4F575
+
+VideoId 121364_3
+121364_0 ae301c c2f48f f8f96e 120a8f 25240d
+home_team_color ae301c 
+away_team_color c2f48f 
+home_team_goalkeeper_color f8f96e
+away_team_goalkeeper_color 120a8f
+referee_color 25240d 
+
+-------------------------------
+Not working correctly, too similar colors 
+----------------------------------
+
+VideoId 2e57b9_0
+2e57b9_0 2c3f5d fdfdf8 901f19 faf96c f7f573
+home_team_color 2c3f5d 
+away_team_color fdfdf8 
+home_team_goalkeeper_color 901f19 
+away_team_goalkeeper_color faf96c 
+referee_color  f7f573 
+
+
+
+VideoId 573e61_0 
+573e61_0 592b28 f0fff7 a4c97f 374355 ecf8b6
+home_team_color 592b28 
+away_team_color f0fff7 
+home_team_goalkeeper_color a4c97f 
+away_team_goalkeeper_color 374355
+referee_color ecf8b6 
+
